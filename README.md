@@ -1,7 +1,7 @@
 # cpp-top-stocks-tracker
 
 Top stocks tracker test task: implement a class that notifies a customer of top gainers/top losers on the stock market.
-Full task description: doc/Top_stocks_test_task.pdf
+Full task description: [Top_stocks_test_task.pdf](https://github.com/SStepanenko/cpp-top-stocks-tracker/blob/master/doc/Top_stocks_test_task.pdf)
 
 Project is implemented in Visual Studio 2013 for Win32 platform on C++ programming language (features of C++ 11 standard are used).
 
